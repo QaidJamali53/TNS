@@ -35,6 +35,8 @@ public class PersonDemo {
 		
 		System.out.println("After calculation : ");
 		System.out.println(person);
+		
+		sc.close();
 	}
 
 }
